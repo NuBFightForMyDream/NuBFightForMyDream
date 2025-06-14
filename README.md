@@ -6,7 +6,8 @@
 - Currently Studying Bachelor Degreee of General Engineering at Chulalongkorn University (GPAX 2.88)
 
 ## 💻 Programming Skills
-- Get A in 2110101 Computer Programming Subject (Rank 124/471)
+- Get A in 2110101 Computer Programming Course (Rank 124/471)
+- Get B in 2304104 General Physics II Course 
 - Expretise in Python and currently studying Java and C++
 - Currently learning Digital Computer Logic , Data Structure & Algorithms and further.
 
