@@ -1,4 +1,4 @@
-# Chatrphol Ovanonchai (Nine) , Intania 108 (IG : noobie.c)
+# Chatrphol Ovanonchai (Nine)
 
 ## 📕 Education Profile
 - Completed from Suankularb Witthayalai School and Triamudom Suksa School in Arts-Mathematics Degree (GPAX 3.30)
