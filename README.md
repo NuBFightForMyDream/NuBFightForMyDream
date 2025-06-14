@@ -1,12 +1,12 @@
-# 2110101 COMP PROG By Nine #108 (2024 T1)
-![COMP PROG LOGO](https://github.com/NuBFightForCP51Again/2110101-Computer-Programming/blob/main/101_Others/comp%20prog.png)
-- This subject is held for 1st year Engineering students (MUST HAVE TO ENROLL) , So do your best to get A naja (Don't forget that PP TAs can help you naa , ask them)
+# Welcome to My Profile
 
-## Course Syllabus
-[2024 T1](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2024_1/56459/materials/Syllabus_2110101_2024s1_Mali-5207-17229924171026.pdf)
+## Education Profile
+- Completed from Suankularb Witthayalai School and Triamudom Suksa School in Arts-Mathematics Degree (GPAX 3.30)
+- Completed 1st Camp POSN Physics @ Bodindecha School
+- Currently Studying Bachelor Degreee of General Engineering at Chulalongkorn University (GPAX 2.88)
 
-## Lecture (Recommended learning this before doing exercises)
-[Python 101 By SPJ](https://www.cp.eng.chula.ac.th/~somchai/python101/index.html)
+## Programming Skills
+- 
 
 [Github P'Bloom](https://github.com/reisenx/2110101-COM-PROG)
 
