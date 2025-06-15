@@ -32,5 +32,5 @@
 - Intania Expo 111 (Registeration) : Open house for Secondary School students to explore themselves for Engineering tracks
 - Admin @ Gen Yar Dai Ed (Facebook Page for guiding nisits to enroll Chulalongkorn General Education courses)
 
-## Projects
+## 💼Projects
 - Intania Department Calculator : Web-Application for 1st year students to calculate their possibility to get their dream department (Python , Streamlit , Vercel) (In progress)
