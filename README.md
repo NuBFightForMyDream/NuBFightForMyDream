@@ -1,7 +1,7 @@
 # Chatrphol Ovanonchai (Nine)
 
 ## 📕 Education Profile
-- Completed from Suankularb Witthayalai School and Triamudom Suksa School in Arts-Mathematics Degree (GPAX 3.30)
+- Graduated from Suankularb Witthayalai School and Triamudom Suksa School in Arts-Mathematics Degree (GPAX 3.30)
 - Completed 1st Camp POSN Physics @ Bodindecha School
 - Currently Studying Bachelor Degreee of General Engineering at Chulalongkorn University (GPAX 2.88)
 
