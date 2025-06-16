@@ -7,7 +7,7 @@
 
 ## 💻 Programming Skills
 - Get A in 2110101 Computer Programming Course 💻 (Rank 124/471)
-- Get B in 2304104 General Physics II ⚡ Course 
+- Get B in 2304104 General Physics II Course ⚡(Top 15%)
 - Expretise in Python and currently studying Java and C++
 - Currently learning Digital Computer Logic , Data Structure & Algorithms , Circuit Theory , Electrical Engineering courses and further.
 
