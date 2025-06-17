@@ -27,7 +27,7 @@
 - True Crime
 - YouTube
 
-## 🏭 Work Experiences
+## 🏭 Activities Experiences
 - Larngear 24th Camp (Academic) : 4-Days Closed-Camp for Secondary School students to explore themselves for Engineering tracks
 - Intania Expo 111 (Registeration) : Open house for Secondary School students to explore themselves for Engineering tracks
 - Gen Yar Dai Ed (Admin) : Facebook Page for guiding nisits to enroll Chulalongkorn General Education courses
