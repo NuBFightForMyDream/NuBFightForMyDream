@@ -33,4 +33,4 @@
 - Gen Yar Dai Ed (Admin) : Facebook Page for guiding nisits to enroll Chulalongkorn General Education courses
 
 ## 💼 Projects
-- Intania Department Calculator : Web-Application for 1st year students to calculate their possibility to get their dream department (Python , Streamlit)
+- Intania Department Calculator : Web-Application for 1st year students to calculate their possibility to get their dream department (Python , Streamlit , Google Sheets)
