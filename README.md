@@ -12,9 +12,7 @@
 - Currently learning new Computer and Electrical Engineering skills.
 
 ## 🦾 Tools
-[![My Skills](https://skillicons.dev/icons?i=fusion360,html,css,wasm)](https://skillicons.dev)
-
-###
+- Fusion 360 , Eclipse , VSCode , Notion , ChatGPT , NotebookLM , myCourseVille , Outlook
 
 ## 🌲 Interests
 - True Crime
