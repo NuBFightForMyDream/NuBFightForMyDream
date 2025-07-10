@@ -8,7 +8,7 @@
 ## 💻 Programming Skills
 - Get A in 2110101 Computer Programming Course 💻 (Rank 124/471)
 - Get B in 2304104 General Physics II Course ⚡(Top 15%)
-- Expretise in Python and currently studying Java and C++
+- Expretise in Python and currently studying Java , C and C++
 - Currently learning new Computer and Electrical Engineering skills.
 
 ## 🦾 Tools
@@ -28,4 +28,4 @@
 - **Intania Department Calculator 2025** : **Web-Application** for 1st year students to calculate their possibility to get their dream department (Python , Streamlit , Google Sheets)
 
 ## 📄 Resume 
-- You can read my resume via [here]()
+- You can read my resume via [here](https://github.com/NuBFightForMyDream/NuBFightForCP51Again/blob/main/Chatrphol%20Ovanonchai%20Resume.pdf)
