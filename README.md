@@ -23,6 +23,8 @@
 - Intania Expo 111 (Registeration) : Open house for Secondary School students to explore themselves for Engineering tracks
 - Gen Yar Dai Ed (Admin) : Facebook Page for guiding nisits to enroll Chulalongkorn General Education courses
 - CU Freshman Fest 2025 (Operation #1 , Radio Coordinator) : Festival for new freshman students (CU 109) to explore Chulalongkorn University
+- Sapanisit Chula 2025 (Secretary of Data & Technical Support) : Doing Financial Statements and Tracking collegue's work.
+- Student Government of Chulalongkorn University (SGCU) (Wellness : Wellness Lab & Tracker) : Creating & Doing framework for imporoving Chula Student's wellness.
 
 ## 💼 Projects
 - **Intania Department Calculator 2025** : **Web-Application** for 1st year students to calculate their possibility to get their dream department (Python , Streamlit , Google Sheets)
