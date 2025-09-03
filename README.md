@@ -33,4 +33,4 @@
 - **Intania Department Calculator 2025** : **Web-Application** for 1st year students to calculate their possibility to get their dream department (Python , Streamlit , Google Sheets)
 
 ## 📄 Resume 
-- You can read my resume via [here](https://github.com/NuBFightForMyDream/NuBFightForCP51Again/blob/main/Chatrphol%20Ovanonchai%20Resume.pdf)
+- You can read my resume via [here](https://github.com/NuBFightForMyDream/NuBFightForCP51Again/blob/main/Chatrphol%20Ovanonchai%20Resume.pdf) [Not updated]
