@@ -3,7 +3,7 @@
 ## 📕 Education Profile
 - Graduated from Suankularb Witthayalai School and Triamudom Suksa School in **Arts-Mathematics Degree** (GPAX 3.30)
 - Completed 1st Camp POSN Physics @ Bodindecha School
-- Currently Studying Bachelor Degree in **Electrical Engineering** at Chulalongkorn University (GPAX 3.00)
+- Currently Studying Bachelor Degree in **Computer Engineering** at Chulalongkorn University (GPAX 3.00) [Changed major from **Electrical Engineering**]
 
 ## 💻 Programming Skills
 - Get A in 2110101 Computer Programming Course 💻 (Rank 124/471)
