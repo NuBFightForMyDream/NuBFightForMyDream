@@ -1,4 +1,5 @@
 # Chatrphol Ovanonchai (Nine)
+- A dumb computer engineering student who tries to overcome obstracles and love to approach my dream.
 
 ## 📕 Education Profile
 - Graduated from Suankularb Witthayalai School and Triamudom Suksa School in **Arts-Mathematics Degree** (GPAX 3.30)
