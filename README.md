@@ -8,7 +8,7 @@
 - Currently Studying Bachelor Degree in Department of **Computer Engineering** at Chulalongkorn University (GPAX 3.00) [Changed major]
 
 ## 🗄️ Teaching Experiences
-- 2110101 Computer Programming TAs (Survey Engineering Section) : Help Professor's tasks and checking student's homework.
+- 2110101 Computer Programming TAs (Survey Engineering Section 10 & General Sections)
 - 2110221 Computer Engineering Essentials AY2025 S2
 - 2190101 Computer Programming (ISE)
 
