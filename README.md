@@ -23,4 +23,4 @@
 - 2110221 Computer Engineering Essentials
 
 ## 📄 Resume 
-- You can read my resume via [here](https://github.com/NuBFightForMyDream/NuBFightForMyDream/blob/main/CP52%20Resume%20%7C%20Chatrphol.pdf)
+- You can read my resume via [here](https://github.com/NuBFightForMyDream/NuBFightForMyDream/blob/main/CV%20_%20Resume%20Chatrphol%20Internship.pdf)
