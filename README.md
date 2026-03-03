@@ -4,8 +4,8 @@
 
 ## 📕 Education Profile
 - Graduated from Suankularb Witthayalai School and Triamudom Suksa School in **Arts-Mathematics Degree** (GPAX 3.30)
-- Studied **Electrical Engineering** at Chulalongkorn University (GPAX 2.88) .
-- Currently Studying Bachelor Degree in Department of **Computer Engineering** at Chulalongkorn University (GPAX 3.00) [Changed major]
+- Studied **Electrical Engineering (108)** at Chulalongkorn University (GPAX 2.88) .
+- Currently Studying Bachelor Degree in Department of **Computer Engineering (52)** at Chulalongkorn University (GPAX 3.00) [Changed major]
 
 ## 🗄️ Teaching Experiences
 - 2110101 Computer Programming TAs (Survey Engineering Section 10 & General Sections)
