@@ -1,6 +1,6 @@
 # Chatrphol Ovanonchai (Nine)
 - A dumb computer engineering student who tries to overcome obstracles and love to approach my dream.
-- Interested Topics : Not sure yet but Web Development isn't my way
+- Interested Topics : AI , Machine Learning , Quantum Computing , Systems Infrastructure 
 - Contact : 6730084521@student.chula.ac.th
 
 ## 📕 Education Profile
