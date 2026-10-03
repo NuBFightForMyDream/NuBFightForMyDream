@@ -1,5 +1,3 @@
-![Powerpuff contribution calendar](assets/powerpuff-contributions.svg)
-
 # Chatrphol Ovanonchai (Nine)
 - A dumb computer engineering student who tries to overcome obstracles and love to approach my dream.
 - Interested Topics in Computer Engineering : AI , Data , Machine Learning , Quantum Computing
@@ -54,3 +52,5 @@
 
 ## 📄 Resume 
 - You can read my resume via [here](https://github.com/NuBFightForMyDream/NuBFightForMyDream/blob/main/CV%20_%20Resume%20Chatrphol%20Internship.pdf)
+
+![Powerpuff contribution calendar](assets/powerpuff-contributions.svg)
