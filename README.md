@@ -1,6 +1,6 @@
 # Chatrphol Ovanonchai (Nine)
 - A dumb computer engineering student who tries to overcome obstracles and love to approach my dream.
-- Interested Topics in Computer Engineering : AI , Data , Machine Learning , Quantum Computing
+- Interested Topics in Computer Engineering : AI , Data , Machine Learning , Quantum Computing , Cyber Security
 - Interested Topics Outside Computer Engineering : Operation Management , Tech in Environmental Science , Geospatial Data Science & Machine Learning
 - Contact : 6730084521@student.chula.ac.th
 
