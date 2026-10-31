@@ -51,4 +51,4 @@
 
 
 ## 📄 Resume 
-- You can read my resume via [here](https://github.com/NuBFightForMyDream/NuBFightForMyDream/blob/main/CV%20_%20Resume%20Chatrphol%20Internship.pdf)
+- You can read my resume via [here](https://github.com/NuBFightForMyDream/NuBFightForMyDream/blob/main/resume.pdf)
