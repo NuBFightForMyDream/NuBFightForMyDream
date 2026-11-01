@@ -1,5 +1,5 @@
 # Chatrphol Ovanonchai (Nine)
-- A dumb computer engineering student who tries to overcome obstracles and love to approach my dream as Tech Consltant in Big 4.
+- A dumb computer engineering student who tries to overcome obstracles and love to approach my dream as Tech Consultant in Big 4.
 - Interested Topics in Computer Engineering : AI , Data , Machine Learning , Quantum Computing , Cyber Security
 - Interested Topics Outside Computer Engineering : Operation Management , Tech in Environmental Science , Geospatial Data Science & Machine Learning
 - Contact : 6730084521@student.chula.ac.th
@@ -7,7 +7,7 @@
 ## 📕 Education Profile
 - Graduated from Suankularb Witthayalai School and Triamudom Suksa School in **Arts-Mathematics Degree** (GPAX 3.30)
 - Studied **Electrical Engineering (108)** at Chulalongkorn University (GPAX 2.88) .
-- Currently Studying Bachelor Degree in Department of **Computer Engineering (52)** at Chulalongkorn University (GPAX 3.00) [Changed major]
+- Currently Studying Bachelor Degree in Department of **Computer Engineering (52)** at Chulalongkorn University (GPAX 2.96) [Changed major]
 - Having Plan to take minors in **Faculty of Industrial Engineering at Chulalongkorn University**
 
 ## 🗄️ Teaching Experiences
